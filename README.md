@@ -1,6 +1,6 @@
 # Juego Mario 3D - Persistencia de Datos
 
-Proyecto desarrollado para la asignatura de Ingeniería en Software. Implementa persistencia de datos entre Unity y MySQL.
+Proyecto desarrollado para la asignatura Desarrollo de Videojuegos. Implementa persistencia de datos entre Unity y MySQL.
 
 ## Estructura de entrega:
 - **/Scripts**: Código fuente en C# del controlador de personaje.
